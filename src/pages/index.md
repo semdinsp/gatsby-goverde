@@ -1,21 +1,20 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Track and plan your business
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Support and empower small marketing teams
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Why Go-Verde
+  description: Verde has a tracking system to allow marketing teams to
+    automatically maintain a log of their activities and correlate activities
+    with performance.  Furthermore we can assist plans for the future by helping
+    to suggest campaigns that will be successful based on past performance and
+    actions by similar team.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -47,10 +46,14 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    We offer an online tool to track marketing activities across a variety of
+    platforms and automatically track metrics.  In addition we can pull in
+    revenue numbers to link revneue with marketing campaigns.  As the system is
+    used it build capabilities and knowledge which we term a "marketing book' of
+    campaigns and promotions.
+
+
+    Our tools allow us to create performance reviews and predict future actions to directly benefit revenue.
 main:
   heading: Great coffee with no compromises
   description: >
