@@ -158,7 +158,7 @@ PortfolioPage.propTypes = {
 
 export default PortfolioPage
 
-export const productPageQuery = graphql`
+export const portfolioPageQuery = graphql`
   query PortfolioPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
