@@ -1,20 +1,22 @@
 ---
 templateKey: index-page
-title: Track and plan your business
+title: Marketing Management/Business Consulting
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support and empower small marketing teams
+heading: Timor Leste Intro
+subheading: Let us help you build a business in Timor Leste
 mainpitch:
-  title: Why Go-Verde
-  description: Verde has a tracking system to allow marketing teams to
-    automatically maintain a log of their activities and correlate activities
-    with performance.  Furthermore we can assist plans for the future by helping
-    to suggest campaigns that will be successful based on past performance and
-    actions by similar team.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Why Verdeka Lda
+  description: >
+    Verde has helped some international investors to set up business in Timor
+    Leste/East Timor since 2014 from various industries from duty free retails,
+    gaming, recycling, construction, and throughout fishery industries. Over the
+    years, we have built great relationships with Timorese government sectors,
+    local organization, private sectors to support us setting up your business
+    in Timor Leste. 
+description: Timor is a small island at the southern end of Maritime Southeast
+  Asia and in the north of the Timor Sea. The island is divided between the
+  sovereign states of East Timor on the eastern part and Indonesia on the
+  western part. Leste is a Portuguese name for the word of the east in English.
 intro:
   blurbs:
     - image: /img/coffee.png
