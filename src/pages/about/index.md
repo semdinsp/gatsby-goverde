@@ -3,7 +3,7 @@ templateKey: about-page
 path: /about
 title: About our team
 ---
-### Assist and empower the marketing team
+### Business Creation
 
 We want to allow small marketing teams to grow and focus on what is important by refining their activities away from reporting and into strategy. We want to take performance reporting for the team and turn it into a beneficial and thought provoking activity.
 
